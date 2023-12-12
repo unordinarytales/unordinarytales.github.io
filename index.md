@@ -3,4 +3,4 @@ layout: default
 ---
 Hello World
 
-site.posts
+{{site.posts}}
