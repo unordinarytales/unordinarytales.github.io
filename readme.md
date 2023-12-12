@@ -1,2 +1,4 @@
-layout: default
+---
+layout: page
 title: blog
+---
