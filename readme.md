@@ -1,3 +1,2 @@
-layout: page
-title: Unordinary Tales
-permalink: /index.hml
+layout: default
+title: blog
