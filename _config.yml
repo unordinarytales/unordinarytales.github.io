@@ -1,22 +1,22 @@
 # SITE CONFIGURATION
 #baseurl: "/Type-on-Strap"
-url: "unordinarytales.github.io"
+url: "https://unordinarytales.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Unordinary Tales                                  # site's title
 description: "A TTRPG Digital Garden"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: img/desk_sm.jpg                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Unordinary Tales  # Change Blog header text
-header_feature_image: assets/img/header/triangular.jpeg
+header_feature_image: img/hexmap.jpg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: false                                          # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
