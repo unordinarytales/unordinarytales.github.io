@@ -17,19 +17,13 @@ The blog captures more of the news and thoughts in the moment for gaming while a
 <h3>Articles</h3>
 {% include portfolio.html %}
 
-
-
-
-
-
 <h3>Recent Blog Posts</h3>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+
+{% site.related_posts %}
+
+
+
 
 
 
