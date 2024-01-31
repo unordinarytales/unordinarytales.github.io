@@ -1,5 +1,7 @@
 ---
-layout: home
-title: blog
-permalink: /blog
+layout: page
+title: Blog
+permalink: /blog/
 ---
+
+{% include blog/blog.liquid %}
