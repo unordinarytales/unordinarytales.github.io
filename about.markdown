@@ -11,7 +11,7 @@ I’ve owned Unordinary Tales since the internet’s heady days in the early 200
 
 First, it was a portfolio for writing for tabletop roleplaying games that I hand-coded in HTML[^1], which covered my early writing for sci-fi/fantasy magazines and then freelancing for tabletop roleplaying games during the Dungeons and Dragons 3rd edition era. After that, it was a book review blog, and then it was inactive for many years (it is all a blur). 
 
-In late 2022 I revived the site and started writing about my experiences [coming back to the game]({% link return_to_the_game.markdown %}), and then my thoughts on the tabletop gaming industry. I plan on writing more about game design, and then also hopefully making some tutorials on using different to elevate your games. 
+I revived the site in late-2022 by writing about my experiences coming back to playing TTRPGs. Since then I've written about tabletop roleplaying games, game design, and then my thoughts on the tabletop gaming industry. I plan on writing more about game design, and then also hopefully making some tutorials on using different to elevate your games. 
 
 The blog has changed technology stacks about as much as topics with first [Blogger](https://www.blogger.com), [Rapidweaver](https://www.realmacsoftware.com/rapidweaver/), [Tumblr](https://www.tumblr.com), and the most recent incarnation is created using [Jekyll](https://jekyllrb.com) and[ hosted on GitHub](https://github.com). 
 
