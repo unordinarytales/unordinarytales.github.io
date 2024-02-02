@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /articles
 ---
 
-{% include blog/blog.liquid %}
+<h3>Articles</h3>
+{% include portfolio.html %}
+
