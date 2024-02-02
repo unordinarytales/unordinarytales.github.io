@@ -1,0 +1,29 @@
+
+---
+layout: post
+title:  "2023 In Review"
+date:  2024-02-02 0515
+categories: year_in_review
+---
+
+This past year has felt long and surreal in the ttrpg space. Wizards of the Coast started 2023 by announcing they were going to revoke/upend the Open Gaming License and that came through the community like a tarasque through a small village hamlet. I think those reverberations are still being felt in various degrees, and probably will for the near future though I think the community came through it better in end (not that it was good to have happened).
+
+I know I watched everything unfurl with a sense of dread and was happy that Wizards released the 5e SRD into the Creative Commons, but I am now more careful about protecting my game. TTRPGs provide so much value to my life that I don’t want any potential activity by one company to derail the game and sour the connection. Gaming is great though the connections and friends I  have made while gaming is the true treasure.
+
+What is exciting about the post-Crisis[^1] world is that 5th edition is becoming rules platform than a singular game system. There are 5th edition forks [^2] like [Tales of Valiant](https://www.talesofthevaliant.com/) from Kobold Press that provides a variant on the 5th edition rules and then publishers seem really cognizant about filling in the blank spaces in the 5th edition rules such as Cubicle 7s [Uncharted Journeys](https://cubicle7games.com/uncharted-journeys-roleplaying-game). Dungeons and Dragons is still a great game though 5th edition is becoming this open-source like programming language where different modules can be added (like libraries for Python). If you like the [Luck mechanic from Tales of the Valiant](https://slyflourish.com/luck.html) then you can add it into your game. I think it really encourages groups to tailor the game to what they enjoy. I’ve caught onto this modularity and will be spending 2024 putting that theory to the test. 
+
+I added several new gaming books to my collection in 2023 including:
+
+- _Spaceships and Starwyrms Core Sourcebook_.
+- _Level up Advanced 5th Edition Adventurer's Guide_.
+- _Everyday Heroes_.
+
+And while the game group has been playing Eclipse Phase lately I am looking forward to playing the next 5e game, which I am hoping to Dm and return to an area in our world haven’t ventured through before so there will be some good opportunities for roleplaying, and word building. I plan on exploring all that 5e has to offer this year with seeing how our group can make 5e its own.
+
+I had started with Dungeon 23 last year and didn’t make it very far into the year before derailing though it was an interesting experience. I am going to try and create an article[^3] for the site to cover my experience.  I have been enjoying playing around with game design more though so I hope to do more design in 2024. And always, I hope to write more. 
+
+[^1]: It sort of reminds me of the Crisis of Infinite Earths except in reverse. Instead of many worlds becoming one we have a singular system, 5th Editon, becoming many.
+
+[^2]: This is in reference to a fork in a [codebase as described in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo), “A fork is a new repository that shares code and visibility settings with the original "upstream" repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository.” 
+
+[^3]: Articles are going to be longer form more stable content. More collected thoughts the grow organically rather than a short blog post.
