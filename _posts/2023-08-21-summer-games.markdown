@@ -17,7 +17,7 @@ There were also some logistical challenges around how Savage Worlds uses a stand
 
 I also explored using a different VTT like [Roll 20](https://app.roll20.net/forum/post/2578013/slug%7D) or Fantasy Grounds though those solutions seemed too large for our group (we normally run games over Discord, Owlbear Rodeo, and D&D Beyond).
 
-I am happy I spent the time trying Savage Worlds though I don't think it is the game that I will use for Star Wars should we play again I do love the idea behind the game, and would definitely try it again for another setting (and in person).
+I am happy I spent the time trying Savage Worlds though I don't think it is the game that I will use for Star Wars should we play again. I do love the idea behind the game, and would definitely try it again for another setting (and in person).
 
 [^1]: I feel like I need to write an entire post on running a collaborative world (e.g. where you have multiple GMs all using the same world). 
 
