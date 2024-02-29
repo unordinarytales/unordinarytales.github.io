@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game Tools: Map Tips"
-date:  2022-01-17 1051
+date:  2022-01-17 1051 -0500
 categories: ttrpg tools
 ---                 
 I have been working on my campaign documents, which has included a section on maps, specifically a city map where the game begins. Through discovering the Lazy DM content on slyflourish.com I came across [Dyson Logos maps](https://dysonlogos.blog/), which are amazing!

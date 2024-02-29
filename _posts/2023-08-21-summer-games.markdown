@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Summer Games"
-date:  2023-08-21 1152
-categories: game_group
+date:  2023-08-21 1152 -0500
+categories: ttrpg games
 ---
 
-The Spring and Summer months have come and gone for our game group. After we did several game system search sessions last Fall/Winter we added a new player to our group in early Spring and continued with our collaborative D&D campaign in Feyruin. The Spring sessions explored a new part of the world and included some interesting character moments and world-building.[^1] When I was a player I choose to break-type and I rolled up a Barbarian. This was my first time really playing a martial character and was really interesting (though I still think I prefer playing a wizardly type).
+The Spring and Summer months have come and gone for our game group. After we did several game system search sessions last Fall/Winter we added a new player to our group in early Spring and continued with our collaborative D&D campaign in Feyruin. The Spring sessions explored a new part of the world and included some interesting character moments and world-building.[^1] When I was a player I chose to break-type and I rolled up a Barbarian. This was my first time playing a martial character and was interesting (though I still think I prefer playing a wizardly type).
 
 After the D&D campaign, we started an Eclipse Phase campaign. The game proved as fun and thought-provoking as when we [did our initial setting search demo.](https://unordinarytales.com/post/699459507390201856/playing-eclipse-phase) The game posits a post-scarcity society that questions the core concepts of being human. The company behind the game has (not altogether unsurprisingly given the game) set up [a GitHub repo with the rules](https://eclipsephase.github.io/en/02/00-starting-out.html) and I highly recommend checking out the game.
 

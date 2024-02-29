@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2023 In Review"
-date:  2024-02-02 0515
+date:  2024-02-02 0515 -0500
 categories: year_in_review
 ---
 
@@ -25,4 +25,4 @@ I had started with Dungeon 23 last year and didn’t make it very far into the y
 
 [^2]: This is in reference to a fork in a [codebase as described in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo), “A fork is a new repository that shares code and visibility settings with the original "upstream" repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository.” 
 
-[^3]: Articles are going to be longer form more stable content. More collected thoughts the grow organically rather than a short blog post.
+[^3]: Articles are going to be longer and grow over time. More collected thoughts that grow organically rather than in a short blog post.
