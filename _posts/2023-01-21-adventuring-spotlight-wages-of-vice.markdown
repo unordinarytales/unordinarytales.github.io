@@ -6,7 +6,7 @@ categories: ttrpg games
 ---
 I finished running my first published adventure late last month; the Wages of Vice from [Journey through the Radiant Citadel](https://dnd.wizards.com/products/journeys-through-radiant-citadel)written by [T.K. Johnson](https://twitter.com/tkjoinsthefray). In the past, I had been skeptical of published adventures as I was worried about integrating them into a current campaign and it felt like "cheating" in terms of adventure prep. I always took pride in creating my own worlds (the current incarnation is Feyruin; a collaborative world created by our game group) and writing my own stories (and we know what they say about pride).
 
-![This is an image of the cover of the Journeys Through the Radiant Citadel; stylized beings in rainbow-like colors.](img/rad_cover.jpg)
+![This is an image of the cover of the Journeys Through the Radiant Citadel; stylized beings in rainbow-like colors.](/img/rad_cover.jpg)
 
 However, when Wizards of the Coast released [Journeys through the Radiant Citadel](https://dnd.wizards.com/products/journeys-through-radiant-citadel) I loved the concept, and I picked it up on launch day.My first campaign in our shared world ended over the summer and then we had the game search project though we had space in our schedule amid the winter holiday schedule toss-up.
 
@@ -14,7 +14,7 @@ Since we have a collaborative world, I had been tentative to read the full book 
 
 > Your heroes arrive in the city of Zinda, and it's a festive atmosphere. It's time for the March of Vice, a Carnival-like celebration where revelers sweep their sins and vices into the sea. It's loud and colorful. There's street food and rides and a huge Mardi Gras-style parade. And then they trip over a dead body.
 
-![A  male presenting human wearing a white mask with long flowing robes and bedecked in flowers amid a crowded street.](img/rad_wave.jpg)
+![A  male presenting human wearing a white mask with long flowing robes and bedecked in flowers amid a crowded street.](/img/rad_wave.jpg)
 
   
 I normally am a [Lazy DM](https://shop.slyflourish.com) and thought it best to read through the adventure to get a sense of the full story and pacing. After that first reading I was hooked; the adventure immediately grabbed my brain and made me excited to run the story. I decided to set the location within our shared world rather than include the Radiant Citadel and nestled the setting into Feyruin. Then I took the characters from the prior campaign and rolled the adventure premise into their backstory making a nice holiday special style-adventure.
