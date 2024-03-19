@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campaigns and One-shots: D&D 5e"
+title:  "Campaigns: Dungeons and Dragons 5th Edition"
 date:  2022-03-08 2010 -0500
 categories: ttrpg campaigns
 ---
