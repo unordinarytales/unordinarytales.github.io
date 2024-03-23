@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summer Games"
+title:  "Spring & Summer Games"
 date:  2023-08-21 1152 -0500
 categories: ttrpg games
 ---

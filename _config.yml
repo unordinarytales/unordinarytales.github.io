@@ -3,10 +3,10 @@
 url: "https://unordinarytales.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Unordinary Tales                                  # site's title
-description: "A TTRPG Digital Garden"      # used by search engines
+title: Unordinary Tales                         # site's title
+description: "A TTRPG Digital Garden"           # used by search engines
 avatar: img/desk_sm.jpg                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/favicon.ico                     # Icon displayed in the tab
 
 # Header and footer text
 header_text: Unordinary Tales  # Change Blog header text
