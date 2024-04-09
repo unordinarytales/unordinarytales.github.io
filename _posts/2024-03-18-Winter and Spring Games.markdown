@@ -11,7 +11,7 @@ It has been a busy fall and winter game-wise as our group mustered through the F
 The setting for Eclipse Phase is continually expanding my expectations for a tabletop roleplaying game. The setting is set far in the future where humanity has entered a transhuman society as individuals can download their conciseness into a new body should their current body be destroyed[^2]. There is also easily accessible fabrication technology so material wants for basic items are removed. This all means you need to develop your character's sense of self and their wants, needs, and desires beyond common tropes in other games (i.e. kill the monster and take their treasure). 
 
 ### A System for A World
-Rather than leveraging a generic system or porting the well-known system from another game Eclipse Phase has their system.  The game is an attribute and skill-based game rather than level-based (e.g. [like the Star Wars game from West End Games]({% post_url 2022-09-11-Star-Wars-RPG%}) vs  Dungeons & Dragons 5th Edition) and it has been a fantastic campaign experience.
+Rather than leveraging a generic system or porting the well-known system from another game Eclipse Phase has their system.  The game is an attribute and skill-based game rather than level-based (e.g. [like the Star Wars game from West End Games]({% post_url 2022-09-11-Star-Wars-RPG%}) vs  5th Edition) and it has been a fantastic campaign experience.
 
 ![ Eclipse Phase Attribute List](/img/eph_attributes.png)
 
