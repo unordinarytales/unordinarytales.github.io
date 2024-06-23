@@ -64,14 +64,14 @@ _Description:_ You defend the Clan beasts and the Clanships from Aedoh Pirates, 
 
 _Skill Proficiencies:_ Athletics, Perception
 
-_Tools Proficiencies:_ Choose one (
+_Tools Proficiencies:_ Water Vehicle, Pipes
 
 _Languages:_ Kenesian
 
-_Equipment:_ A martial weapon,  Medium or Light Armor, Blowgun & Shards, Travelers Clothes
+_Equipment:_ A martial weapon,  Medium or Light Armor, Blowgun & Shards, Adventuring Garb
 
-_Feature:_  Waterborn
-You are experienced both fighting aboard ships and below the waves amid the depths. The waves are a part of you and you know how to fight among them. 
+_Feature:_  **Waterborn**
+You have experience fighting both aboard ships and below the waves amid the depths. The waves are a part of you and you know how to fight among them with skill and aplomb.
 
 
 
