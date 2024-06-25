@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Running the Game: Maps"
-date:  2024-06-27 0800 -0500
+title:  "Running the Game: Dungeon Delve Maps"
+date:  2024-06-25 0800 -0500
 categories: ttrpg_campaign
 ---
 ## Mapping Your Imagination
 I can clearly remember throughout my childhood drawing maps through several different notebooks and even across one giant piece of foam board that showed up in my house (I can still remember drawing many small trees to show forests, and odd-looking mountains to show the mountain ranges. ) 
 
-To this end, I am largely a Lazy DM. However, where I deviate most is world-building, especially in creating maps. I LOVE creating maps for my games and have become something of the group's informal cartographer. This goes for world maps, city maps, and lately more battle maps as I have been exploring using VTTs more over abstract combat.[^1]
+To this end, [I am largely a Lazy DM.](https://slyflourish.com) However, where I deviate most is world-building, especially in creating maps. I LOVE creating maps for my games and have become something of the group's informal cartographer. This goes for world maps, city maps, and lately more battle maps as I have been exploring using VTTs more over abstract combat.[^1]
 
 My latest campaign is bringing our adventures deep underground into the Sunken Sea a large underground ocean (i.e. a flooded underdark) that we have only heard about though this is our first time exploring in any real depth(pun intended). This new world is filled with new species, and interesting features like giant rock pillars to support the world above and then giant geysers that feed water to the surface, etc.
 
