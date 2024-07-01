@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gallery
-gallery: "assets/img/pexels"
+title: Maps
+gallery: "img/maps"
 ---
 
 {% include default/gallery.html gallery_path=page.gallery %}
