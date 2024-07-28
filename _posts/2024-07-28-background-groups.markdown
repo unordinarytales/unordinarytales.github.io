@@ -13,7 +13,7 @@ There is no rule though that the characters have to meet in the game. It is ofte
 
 
 ### Knights of Danathrin
-The Knights of Danathrin are a martial order that has a presence throughout Faedestrere offering their services as mercenaries. They can secure a merchant's premises from break-ins, aid the city watch in investigations, or help track down missing goods. 
+The Knights of Danathrin are a martial order that has a presence throughout Faestruere offering their services as mercenaries. They can secure a merchant's premises from break-ins, aid the city watch in investigations, or help track down missing goods. 
 
 Emulating their founder Lord Danathrin, the Knights are honor-bound to hold their oaths and help their community.  Outside of martial services, they also provide other services like banking, information brokerage, and mail services. They have garrisons throughout the Upper World and some throughout the Sunken Sea.
 
