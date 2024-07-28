@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Story Inspiration:"
+title:  "Adventure Ideas: Rare Book Theft"
 date:  2022-10-31 0822 -0500
 categories: ttrpg game
 ---
 This seems like this would be an excellent inspiration for a tabletop roleplaying game adventure!
 
-[Stolen First Editions by Galileo, Newton Discovered Beneath Floor in Romania | Smart News| Smithsonian Magazine](https://href.li/?https://www.smithsonianmag.com/smart-news/priceless-books-stolen-london-heist-discovered-romania-180975879)
+[Stolen First Editions by Galileo, Newton Discovered Beneath Floor in Romania](https://href.li/?https://www.smithsonianmag.com/smart-news/priceless-books-stolen-london-heist-discovered-romania-180975879)
 
 > Over the next five hours, the thieves carefully extracted 16 bags filled with rare books set to be shipped to Las Vegas for a specialist book auction. Precious cargo in tow, the pair made their escape around 2:15 a.m., fleeing in a car driven by a third accomplice.
 
