@@ -22,23 +22,18 @@ Here is a sample build:
 ####  Ginate Harvester
 
 _Description:_ 
-
 You work on an ocean-bound Ginate platform gathering the leaves and pods from the long-leafy plants to send back to the crafters and merchants on-shore.
 
 _Skill Proficiencies:_ 
-
 Athletics, Nature
 
 _Tool Proficiency:_ 
-
 Carving Kit
 
 _Equipment:_ 
-
 Long knife, rugged worker clothes with thick boots, belt pouch
 
 _Features:_ **Aquatic Experience**
-
 You're used to doing delicate work as the waves lap beneath the platform so you're not bothered by swells and could even miss the rocking while on shore.  Also, you can swim well enough and are familiar with the sea creatures and habits in the area.
 
 
