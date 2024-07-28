@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Running the Game: Dungeon Delve"
+title:  "Campaign: Dungeon Delve"
 date:  2024-06-21 1100 -0500
 categories: ttrpg campaigns
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Running the Game: Dungeon Delve Maps"
+title:  "Campaign: Dungeon Delve Maps"
 date:  2024-06-25 0800 -0500
 categories: ttrpg_campaign
 ---
