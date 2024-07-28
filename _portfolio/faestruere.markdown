@@ -2,7 +2,7 @@
 layout: post
 title: Faestruere
 feature-img: "img/hexmap.jpg"
-img: "img/feyruin.jpg"
+img: "img/sunken_sea.jpg"
 date: 28 July 20242:24 PM 
 tags: 
 ---
@@ -10,7 +10,7 @@ tags:
 
 ### Overview:
 
-A high fantasy setting for Dungeons and Dragons (5th Edition)
+A high fantasy setting for Dungeons and Dragons (5th Edition).
 
 
 
