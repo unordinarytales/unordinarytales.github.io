@@ -3,8 +3,8 @@ layout: post
 title: Faestruere
 feature-img: "img/hexmap.jpg"
 img: "img/sunken_sea.jpg"
-date: 28 July 20242:24 PM 
-tags: 
+date: 28 July 2024 
+tags: Homebrew, Game Design
 ---
 ## Faestruere
 
