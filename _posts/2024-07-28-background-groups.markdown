@@ -17,10 +17,10 @@ The Knights of Danathrin are a martial order that has a presence throughout Faed
 
 Emulating their founder Lord Danathrin, the Knights are honor-bound to hold their oaths and help their community.  Outside of martial services, they also provide other services like banking, information brokerage, and mail services. They have garrisons throughout the Upper World and some throughout the Sunken Sea.
 
-_Name: _
+_Name:_
 Knight of Danathrin Guard
 
-_Description: _
+_Description:_
 You are a guard within the Knight's soldiering corp regularly assigned to different contracts undertaken by the Knights such as protecting caravans, and buildings, or guarding merchants as they travel to market. 
 
 _Skill Proficiencies:_
