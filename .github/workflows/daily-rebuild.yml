@@ -1,0 +1,22 @@
+yaml
+   name: Daily Rebuild
+
+   on:
+     schedule:
+       - cron: 0 17 * * * # Everyday at noon (UTC time)
+
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+
+       steps:
+         - name: Checkout code
+           uses: actions/checkout@v2
+
+         - name: Build your project
+           run: npm run build 
+
+             # Add your build commands here
+             # For example:
+             # npm install
+             # npm run build
