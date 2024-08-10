@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Digitally Dungeons and Analog Dragons"
+title:  "Digital Dungeons and Analog Dragons"
 date:  2024-08-10 0814 -0500
 categories: ttrpg_games
 ---
