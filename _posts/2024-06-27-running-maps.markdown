@@ -12,7 +12,7 @@ To this end, [I am largely a Lazy DM.](https://slyflourish.com) However, where I
 My latest campaign is bringing our adventures deep underground into the Sunken Sea a large underground ocean (i.e. a flooded underdark) that we have only heard about though this is our first time exploring in any real depth(pun intended). This new world is filled with new species, and interesting features like giant rock pillars to support the world above and then giant geysers that feed water to the surface, etc.
 
 Here is the map of the full Sunken Sea underneath the continent:
-![ Sunken Sea Map](/img/maps/sunken_sea.jpg)
+![Sunken Sea Map](/img/maps/sunken_sea.jpg)
 
 
 I use [Inkarnate](https://inkarnate.com) to create all my maps, which is a great tool if you want to build maps for TTRPGs (or even if you're an author trying to create a world for a novel, etc.) There is a free version, which lets you try out the tool, and then the Pro version is $25 per year. The Pro is great as it gives you full access to the tool, and also the map gallery where other Pro users have uploaded maps for the community to view and potentially clone for their usage. 
