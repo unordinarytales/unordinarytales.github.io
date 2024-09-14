@@ -1,8 +1,0 @@
-{
-  "name": "Unordinary Tales",  // Replace with your site's name
-  "version": "1.0.0",
-  "description": "TTRPGs",
-  "scripts": {
-    "build": "jekyll build"  // Build script for Jekyll
-  }
-}
