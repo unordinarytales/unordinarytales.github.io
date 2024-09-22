@@ -1,0 +1,1 @@
+This folder is for images used in general throughout the site and not used for specific posts.
