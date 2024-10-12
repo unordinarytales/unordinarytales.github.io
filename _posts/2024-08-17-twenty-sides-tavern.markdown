@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “A Quest to Off Broadway"
+title: "A Quest to Off Broadway"
 date:  2024-08-17 0408 -0500
 categories: ttrpg_related
 ---
