@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  “Campaign: Dungeon Delve: Into the Dungeon”
-date:  2024-08-17 1706 -0500
-categories: ttrpg_campaign 
+title: "Campaign: Dungeon Delve: Into the Dungeon"
+date:  2024-08-23 0408 -0500
+categories: ttrpg_campaign
 ---
+
 ## Arriving at the Dungeon
 
 After session zero and then five sessions the characters have made it to the Dungeon for the Dungeon Delve Campaign.[^1] I was nervous about the Dungeon and whether it would pass muster with my players.  The Dungeon was an NPC of sorts as it was the centerpiece to the game (first real dungeon crawl) as well as my first real tier two game. Between not having much dungeon design experience and also the characters being more powerful than any others who been on the table before I was worried about being able to manage it all.
