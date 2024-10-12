@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  “Campaign: Dungeon Delve: Into the Dungeon”
-date:  2024-08-17 1706 -0500
+title: “Campaign: Dungeon Delve: Into the Dungeon”
+date: 2024-08-17 1706 -0500
 categories: ttrpg_campaign
 ---
 ## Arriving at the Dungeon
