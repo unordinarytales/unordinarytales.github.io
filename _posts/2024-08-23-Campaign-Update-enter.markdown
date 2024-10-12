@@ -18,7 +18,7 @@ It took me three different attempts to create a dungeon I was happy with in Inka
 
 
 
-[^1]: For the other entries on this campaign check out [the first post in the series.]({% post_url  2024-06-21-building-new-campaign-starts %})
+[^1]: For the other entries on this campaign check out [the first post in the series.]({% post_url 2024-06-21-building-new-campaign-starts %})
 
 
 [^2]: This system is not as advanced as some where you can set lighting cues and darkvision on characters so the fog of war varies by character, but it is still pretty good!
