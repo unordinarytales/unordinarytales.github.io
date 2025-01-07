@@ -2,11 +2,11 @@
 layout: post
 title:  "Campaign: Dungeon Delve: Ending"
 date:  2024-10-27 1211 -0500
-categories: ttrpg_game
+categories: ttrpg game
 ---
 ## Dungeon Delve: Ending
 
-This week was the conclusion of my first mini-series campaign, [the Dungeon Delve has arrived]({% post_url  2024-06-21-building-new-campaign-starts %}). It was both my first real dungeon crawl and my first Tier 2 campaign that I've run in Dungeons and Dragons (of any edition). I had fun running the game though mistakes were made during the game, and I also fell into some well-known traps.
+This week was the conclusion of my first mini-series campaign, [the Dungeon Delve has arrived]({% post_url  2024-06-21-building-new-campaign-starts.markdown %}). It was both my first real dungeon crawl and my first Tier 2 campaign that I've run in Dungeons and Dragons (of any edition). I had fun running the game though mistakes were made during the game, and I also fell into some well-known traps.
 
 ### Not A Clear Story: 
 I didn't do a good enough breaking the story before the game, and anchoring it back to the characters. I had a rough outline that I wanted to do a quest adventure where the two heroes are drafted into helping a group retrieve an artifact though I didn't tie that quest too much into the heroes.
