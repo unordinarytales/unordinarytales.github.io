@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campaign: Dungeon Delve: Monster Mash-up"
+title: "Campaign: Dungeon Delve: Monster Mashup"
 date:  2024-10-07 1546 -0500
 categories: ttrpg_game
 ---
