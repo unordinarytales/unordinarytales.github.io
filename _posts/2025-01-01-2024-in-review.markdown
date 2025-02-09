@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "2024 In Review"
+date:  2025-01-01 1637 -0500
+categories: year_in_reivew
+
+### A Year in Gaming
+
+The prior year has brought the 5th Edition Dungeons and Dragons by 2024 release and the game's 50th anniversary celebration.[^1] As well as 5e variants/forks like Tales of the Valiant launching and the anniversary of the 5th edition being in the Creative Commons.
+
+TTRPGs having been a large part of my social life both past and present I was under a cloud during the OGL debacle and felt like a community I had a personal stake in was being smothered. This was a mistake; I shouldn't have equated that community with a company. 
+
+### Expanding 5e
+
+I left 2023 wanting to expand my conception of 5e to include the variant options and build the 5e that my group wants at our table.  To that end, I have been investing in 5e systems that add onto the game, which have largely been from the EN Publishing 5e variant/fork [Level Up Advanced 5e ](https://www.levelup5e.com)including their [summer kickstarter for the Voidrunner's Codex](https://www.kickstarter.com/projects/enworld/the-voidrunners-codex-sci-fi-box-set-for-5e-and-level-up-a5e), which brings sci-fi elements alongside the fantasy elements in game. 
+
+_Horde Additions this Year:_
+ * Engelbrite, Andrew, and Russ Morrissey. Level Up Advanced 5th Edition Escape from Death Planet. En Publishing, n.d.
+ * Engelbrite, Andrew, and Russ Morrissey. Level Up Advanced 5th Edition Star Captains Manual. En Publishing, n.d.
+ * Engelbrite, Andrew, and Russ Morrissey. Level Up Advanced 5th Edition Voidrunner’s Codex. En Publishing, n.d.
+ * Favor, Akeem. Level Up Advanced 5th Edition Trials & Treasures. En Publishing, n.d.
+ * Favor, Akeem, and Amber Underwood. Level Up Advanced 5th Edition Adventurer’s Guide. En Publishing, n.d.
+ * Hughs, Paul. Level Up Advanced 5th Edition Dungeon Delver’s Guide. En Publishing, n.d.
+ * Morrissey, Russ. Level Up Advanced 5th Edition To Save A Kingdom. En Publishing, n.d.
+ * Nock, Ryan. Level Up Advanced 5th Edition Adventures in Zeitgeist. En Publishing, n.d.
+
+### Rules Relapse
+When the 2024 D&D Players Handbook, and Dungeons Master Guide was released and we started a new mini-campaign I wanted to run the game as "rules as written".  No house rules or other changes. I wanted to experience the game as the designers envisioned, and I thought there would be merit in this perspective. 
+
+That was a mistake. It brought the rules into a higher focus than normal when I am running the game as I tried to run it the  "right way". This has never been the way I've played and it brought up a focus on rules vs story, including discussions in the game which broke out of the story. Always make the game your own for your table and the rules should come second.
+
+### A Variant Future
+Learning from that campaign, I have moved back to allowing for more variant play and homebrewing for 5e, which is becoming easier and easier as more companies bring out more material. Sly Flourish even mentions where he has a game where he his multiple players having characters from different 5e: [a 2014 character, a 2024 character, and a Level up Advanced 5e character. ](https://slyflourish.podbean.com/e/tales-of-the-valiant-game-masters-guide-walkthrough-%e2%80%93-lazy-rpg-talk-show/)[^2]. I find this rather tempting as it makes not every fighter or wizard the same and you could even tie a particular class to a particular part of the world (e.g. traditions of magic, or fighting, etc.) though I don't know how it works in practice. You'd have to use one system as your "home" or "framework" system and then attach the characters onto the system.
+
+### A Jump in Time
+We have been playing in our current campaign world since the late pandemic and I have been running games since January 2022 so I feel like it is time for the world to change. In order for a game world to really feel alive, I think it has to change and evolve and it can't be the same all the time. We have woven this rich tapestry and it feels like we need to pull some of those threads we've set-up to come to conclusion. My co-GM and myself have also discussed a technological jump from a medieval-esque setting into a more age of sail-esque technology[^3] with an age of adventure-style. What this exactly means for the world is still under discussion though I am excited about the prospect. 
+
+
+
+[^1]: This is very different than 2023, which began with the OGL debacle and then the constant damage control by Wizards of the Coast.
+
+[^2]: The section on the different characters start at the 4:05 mark.
+
+[^3]: A inspiration for this choice would be the [Eberron](https://eberron.fandom.com/wiki/Eberron_Wiki) setting from Wizards of the Coast. I would like at-least one train and airships in the setting too. 
+
+
+
+
+
+
