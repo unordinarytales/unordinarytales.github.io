@@ -3,7 +3,7 @@ layout: post
 title:  "2024 In Review"
 date:  2025-01-01 1637 -0500
 categories: year_in_reivew
-
+---
 ### A Year in Gaming
 
 The prior year has brought the 5th Edition Dungeons and Dragons by 2024 release and the game's 50th anniversary celebration.[^1] As well as 5e variants/forks like Tales of the Valiant launching and the anniversary of the 5th edition being in the Creative Commons.
