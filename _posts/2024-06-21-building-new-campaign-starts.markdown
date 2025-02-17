@@ -10,9 +10,9 @@ I am starting a new mini-series campaign in our shared Dungeons and Dragons 5e w
 I have also not had the chance to dabble in running a tier 2 game[^1] so I pitched a mini-series campaign for 3-4 sessions for 9th-level characters. 
 
 ## The Story:
-> The Sunken Sea is getting closer to full war as the internal conflict that has simmered within the Kingdom of Ghar for the past two years comes to a low boil. Rumors persist that younger Thayne children, and serfs alike are running away to the revolutionary movement as the Imperial garrisons throughout the Empire present a greater show in force, and the Church Prestors proclaim the Great Wyrm stirs.
+> The Sunken Sea is getting closer to full war as the internal conflict that has simmered within the Ghar Empire for the past two years comes to a low boil. Rumors persist that younger Thayne children, and serfs alike are running away to the revolutionary movement as the Imperial garrisons throughout the Empire present a greater show in force, and the Church Prestors proclaim the Great Wyrm stirs.
 > 
-> Yet, the Keneasian Clans care little for Imperial politics and Imperial ways so long as they have the waves and currents it is a good day. Now is the time for Clanmeet, which promises many great stories as the clans gather for a seven-day bacchanalian experience.
+> Yet, the Keneasian Clans care little for Imperial politics and Imperial ways so long as they have the waves and currents, it is a good day. Now is the time for Clanmeet, which promises many great stories as the clans gather for a seven-day bacchanalian experience.
 > 
 > This year the Meet is abuzz with an alliance between two larger Clans, Clan Gunnar and Clan Arnyr, to cement the coalition the Clan Elders from each Clan have set forth a quest for the strongest warriors from the Clans. Recently, it has come to light that the location of an ancient weapon lost during the waning days of the Cursed War has been discovered. The Elders have consulted their oracle runes and said this quest poses great importance for the alliance and the Clans.
 
