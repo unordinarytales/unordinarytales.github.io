@@ -35,6 +35,12 @@ Learning from that campaign, I have moved back to allowing for more variant play
 ### A Jump in Time
 We have been playing in our current campaign world since the late pandemic and I have been running games since January 2022 so I feel like it is time for the world to change. In order for a game world to really feel alive, I think it has to change and evolve and it can't be the same all the time. We have woven this rich tapestry and it feels like we need to pull some of those threads we've set-up to come to conclusion. My co-GM and myself have also discussed a technological jump from a medieval-esque setting into a more age of sail-esque technology[^3] with an age of adventure-style. What this exactly means for the world is still under discussion though I am excited about the prospect. 
 
+### Writing Stats
+This blog has seen semi-regular updates and a technical overhaul from [Tumblr](https://www.tumblr.com/) to [Jekyll](https://jekyllrb.com/) hosted in [Github Pages](https://pages.github.com/).
+
+I also wrote for [Gnome Stew](https://gnomestew.com/) about [managing your digital library](https://gnomestew.com/managing-your-digital-library/), which was a fun experience and one that I would like to do again this year if the stars align.
+
+
 
 
 [^1]: This is very different than 2023, which began with the OGL debacle and then the constant damage control by Wizards of the Coast.
