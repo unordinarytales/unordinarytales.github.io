@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Campaign: Gharburx"
+date:  2024-11-01 1414 -0500
+categories: 
+---
+## New Game: New Start
+
+We are moving onto a new campaign miniseries with new characters. I enjoyed having the players have limited options last time so I decided to give them a few prompts for the game including factions and character species.
+
+Since the Dungeons and Dragons 5th edition 2024 ruleset came out in September with the new Players Handbook, and Dungeon Masters Guide then we decided to move to playing #DnD2024 for this campaign and I decided I wanted to run the game rules as written {e.g. no house rules}. 
+
+While the last game was a dungeon delve I wanted to move this game back to an urban environment so I moved it to the capital on the Ghar Empire, Gharburx. 
+
+I imagine Gharburx as a mashup between many cities in Europe with old gothic stone buildings intermixed with a canal system and a large church ward abutting a large imperial palace. I gave the players a few options for characters and patrons.[^1] They chose to be diplomatic members from the Zandian Magocracy in the city to open trade negotiations with Ghar Empire. Secretly, they would be part of the Library, which is a covert information gathering group with the Magocracy that collects artifacts and information for Zane's benefit[^2]. 
+
+The game starts with the players being called into their immediate supervisors office and being assigned to help a fellow delegation member who had been picked up by the Gharburx Watch. They head to the watch station and find out their colleague is being held of suspicion of unaliving a monk who they met at a dinner party.
+
+The game has some elements that I really enjoy and I hope the story ends up shaping.
+
+![Map of the city of Gharburx](img/maps/map_gharburx.jpeg)
+
+
+
+[^1]: I like the rule of 3 in terms of patrons. 
+
+[^2]: I first setup the Great Library almost 4 years ago when I first began running games and have rather enjoyed have the players interact and now work for the library. It is perhaps one of my favorite parts of running a long running game world; all the call backs.
+
+
+
+
